@@ -37,7 +37,7 @@ export const frame_home = () => {
 export const frame_next = (fid: string, address: string, text: string) => {
   const body = `🚀 LFG%0D%0Dfid: ${fid}%0D%0Daddress: ${address.slice(
     0,
-    6
+    12
   )}%0D%0Dmessage: ${text}`;
   return {
     buttons: [
