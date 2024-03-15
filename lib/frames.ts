@@ -18,7 +18,7 @@ export const frame_error = () => {
 
 // Home
 export const frame_home = () => {
-  const body = "👋 Welcome to frames";
+  const body = "ETHLondon Welcome to frames";
   return {
     buttons: [
       {
