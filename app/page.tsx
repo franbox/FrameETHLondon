@@ -21,5 +21,5 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
-  return <h1>ETH London Frames</h1>;
+  return <h1>ETH London Fran Frames</h1>;
 }
